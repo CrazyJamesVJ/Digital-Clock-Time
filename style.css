@@ -1,0 +1,18 @@
+body{
+        margin: 0;
+        padding: 15%;
+        background: rgb(123, 211, 255);
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;   
+}
+.clockd{
+    font-size: 100px;
+    color: azure;
+    background-color: rgba(0,0,0, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.616);
+    padding: 10px;
+}
